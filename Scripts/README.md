@@ -7,7 +7,7 @@
     1. Download the file
     2. Copy and Paste the file into your Sauerbraten directory
     3. Exec the file by either appending your autoexec.cfg or executing "/exec file.cfg" ingame
- * (You can also use the [loopexec.cfg](https://www.google.com "loopexec.cfg: execute multiple scripts from a folder") script, with it you can use the execfile command to execute an entire folder)
+ * (You can also use the [loopexec.cfg](https://github.com/SalatielSauer/Sauerbraten-Content/blob/master/Scripts/loopexec.cfg "loopexec.cfg: execute multiple scripts from a folder") script, with it you can use the execfile command to execute an entire folder)
  
  # Scripts
  
