@@ -1,0 +1,29 @@
+//MatrixIllusion by Salatiel
+cloudlayer "fonts/default0.png"
+cloudalpha 1.0
+cloudbox ""
+cloudboxalpha 1.0
+cloudboxcolour 255 255 255
+cloudclip 0.5
+cloudcolour 0 255 0
+cloudfade 0.2
+cloudheight 0.1
+cloudoffsetx 0.0
+cloudoffsety 0.0
+cloudscale 0.09
+cloudscrollx 2.0
+cloudscrolly -2.0
+
+fogdomecap 1
+fogdomeclip 1.0
+fogdomeclouds 1
+fogdomecolour 10 255 10
+fogdomeheight -0.5
+fogdomemax 0.5
+fogdomemin 0.0
+
+skybox "skyboxes/white"
+skyboxcolour 0 0 0
+
+skylight 0
+sunlight 0

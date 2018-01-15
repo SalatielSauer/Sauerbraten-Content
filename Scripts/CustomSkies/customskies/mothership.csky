@@ -1,0 +1,29 @@
+//MotherShip by Salatiel
+cloudlayer "textures/yves_allaire/e7/e7sbrickfloor_jump_red_glow.jpg"
+cloudalpha 1.0
+cloudbox "staffy/staffy"
+cloudboxalpha 1.0
+cloudboxcolour 255 255 255
+cloudclip 0
+cloudcolour 255 255 255
+cloudfade 0.2
+cloudheight -1
+cloudoffsetx 0.5
+cloudoffsety 0.5
+cloudscale 1.2
+cloudscrollx 0
+cloudscrolly 0
+
+fogdomecap 1
+fogdomeclip 1.0
+fogdomeclouds 0
+fogdomecolour 150 100 100
+fogdomeheight -0.5
+fogdomemax 0.1
+fogdomemin 0
+
+skybox "skyboxes/remus/sky01"
+skyboxcolour 0 0 0
+
+skylight 0 0 0
+sunlight 0 0 0

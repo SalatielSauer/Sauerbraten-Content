@@ -1,0 +1,29 @@
+//SolarBase by Salatiel
+cloudlayer "particles/explosion.png"
+cloudalpha 1.0
+cloudbox "skyboxes/white"
+cloudboxalpha 0.1
+cloudboxcolour 150 80 50
+cloudclip 0.5
+cloudcolour 255 255 255
+cloudfade 0.5
+cloudheight -0.9
+cloudoffsetx 0.0
+cloudoffsety 0.0
+cloudscale 1.0
+cloudscrollx 0.005
+cloudscrolly 0.0
+
+fogdomecap 1
+fogdomeclip 0.2
+fogdomeclouds 1
+fogdomecolour 150 100 50
+fogdomeheight -0.6
+fogdomemax 0.7
+fogdomemin 0.0
+
+skybox "skyboxes/white"
+skyboxcolour 150 100 20
+
+skylight 0 0 0
+sunlight 250 200 120

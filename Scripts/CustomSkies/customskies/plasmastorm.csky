@@ -1,0 +1,29 @@
+//PlasmaStorm by Salatiel
+cloudlayer "particles/plasma.png"
+cloudalpha 1.0
+cloudbox "staffy/staffy"
+cloudboxalpha 0.5
+cloudboxcolour 255 255 255
+cloudclip 0.5
+cloudcolour 255 255 255
+cloudfade 1.0
+cloudheight -0.2
+cloudoffsetx 0.0
+cloudoffsety 0.0
+cloudscale 0.3
+cloudscrollx 0.005
+cloudscrolly 0.005
+
+fogdomecap 1
+fogdomeclip 1.0
+fogdomeclouds 1
+fogdomecolour 100 100 255
+fogdomeheight -1.0
+fogdomemax 0.5
+fogdomemin 0.0
+
+skybox "skyboxes/white"
+skyboxcolour 0 0 0
+
+skylight 0
+sunlight 0
