@@ -1,0 +1,29 @@
+//lavabase by Salatiel
+cloudlayer "dg/floor_lava2.jpg"
+cloudalpha 1.0
+cloudbox ""
+cloudboxalpha 1.0
+cloudboxcolour 255 255 255
+cloudclip 0.5
+cloudcolour 255 255 255
+cloudfade 1
+cloudheight -0.01
+cloudoffsetx 0
+cloudoffsety 0
+cloudscale 0.01
+cloudscrollx 0.03
+cloudscrolly -0.03
+
+fogdomecap 1
+fogdomeclip 1.0
+fogdomeclouds 1
+fogdomecolour 0 0 0
+fogdomeheight 0
+fogdomemax 0
+fogdomemin 0
+
+skybox "skyboxes/evilsky"
+skyboxcolour 255 255 255
+
+skylight 0 0 0
+sunlight 0 0 0

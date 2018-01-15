@@ -1,0 +1,29 @@
+//RadiationWorld by Salatiel
+cloudlayer "rorschach/5_blood01.jpg"
+cloudalpha 1.0
+cloudbox "staffy/staffy"
+cloudboxalpha 0.3
+cloudboxcolour 255 255 255
+cloudclip 0.5
+cloudcolour 255 255 255
+cloudfade 0.2
+cloudheight -0.001
+cloudoffsetx 0
+cloudoffsety 0
+cloudscale 0.001
+cloudscrollx 0.02
+cloudscrolly -0.02
+
+fogdomecap 1
+fogdomeclip 0.5
+fogdomeclouds 0
+fogdomecolour 0 250 0
+fogdomeheight -0.1
+fogdomemax 1.0
+fogdomemin 0.0
+
+skybox "skyboxes/clearsky052"
+skyboxcolour 200 255 200
+
+skylight 0 0 0
+sunlight 0 0 0

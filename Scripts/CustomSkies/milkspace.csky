@@ -1,0 +1,29 @@
+//milkspace by Salatiel
+cloudlayer "lunaran/light_fifty_h.jpg"
+cloudalpha 1.0
+cloudbox "staffy/staffy"
+cloudboxalpha 1.0
+cloudboxcolour 255 255 255
+cloudclip 0.5
+cloudcolour 255 255 255
+cloudfade 0.2
+cloudheight -0.05
+cloudoffsetx 0.5
+cloudoffsety 0.5
+cloudscale 1.5
+cloudscrollx 0
+cloudscrolly 0
+
+fogdomecap 1
+fogdomeclip 1.0
+fogdomeclouds 1
+fogdomecolour 0 0 0
+fogdomeheight 0
+fogdomemax 0
+fogdomemin 0
+
+skybox "skyboxes/white"
+skyboxcolour 0 0 0
+
+skylight 0 0 0
+sunlight 0 0 0

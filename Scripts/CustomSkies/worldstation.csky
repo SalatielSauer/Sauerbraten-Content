@@ -1,0 +1,29 @@
+//WorldStation by Salatiel
+cloudlayer "skyboxes/morning_dn"
+cloudalpha 1.0
+cloudbox "staffy/staffy"
+cloudboxalpha 0.4
+cloudboxcolour 255 255 255
+cloudclip 0
+cloudcolour 255 255 255
+cloudfade 0.2
+cloudheight -0.6
+cloudoffsetx 0.6
+cloudoffsety 0.6
+cloudscale 1.7
+cloudscrollx 0
+cloudscrolly 0
+
+fogdomecap 1
+fogdomeclip 0.2
+fogdomeclouds 1
+fogdomecolour 200 230 250
+fogdomeheight -0.46
+fogdomemax 0.1
+fogdomemin 0.0
+
+skybox "skyboxes/white"
+skyboxcolour 0 0 0
+
+skylight 0 0 0
+sunlight 0 0 0
