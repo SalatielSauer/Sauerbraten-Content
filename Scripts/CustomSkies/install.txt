@@ -1,0 +1,28 @@
+Customskies Gui Menu: Salatiel
+
+How to install:
+customskies.cfg file on your sauerbraten dir
+customskies folder on your packages dir (sauerbraten/packages)
+
+type exec customskies.cfg on your autoexec.cfg (mygames/sauerbraten/autoexec.cfg) (or .sauerbraten/).
+
+ingame /customskies to open the gui menu.
+
+Custom skies by Salatiel:
+newmap
+solarbase
+moonbase
+marsbase
+oceanbase
+lavabase
+snowclear
+egyptsand
+plasmastorm
+worldstation
+mothership
+radiationworld
+pokeball
+bluehole
+milkspace
+hurricanered
+matrixillusion
