@@ -8,3 +8,7 @@
 3. Type **exec customskies.cfg** on your *autoexec.cfg* (mygames/sauerbraten/autoexec.cfg) (or .sauerbraten/autoexec.cfg).
 
 * ingame /customskies to open the gui menu.
+
+![EarthStation](https://i.imgur.com/XlEDd9Z.png)
+![MarsStation](https://i.imgur.com/3fmnK4V.png)
+![RadiationWorld](https://i.imgur.com/aJMmDQD.png)
