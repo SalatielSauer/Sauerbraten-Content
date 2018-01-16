@@ -1,6 +1,6 @@
 
 # Sauerbraten-Scripts
-  ##### Some useful scripts (others not so much) that i made for Sauerbraten, but also, with luck, can work in derived games, such as Redeclipse.
+  ##### Some useful scripts (others not so much) that I made for Sauerbraten, but also, with luck, can work in derived games, such as Redeclipse.
   
 # Installation
  
