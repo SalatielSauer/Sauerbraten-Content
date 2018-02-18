@@ -32,9 +32,9 @@
 
 [DownGit](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SalatielSauer/Sauerbraten-Content/tree/master/Mods/Sauerbraten-BlendModels)
 
-[CubeBR](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SalatielSauer/Sauerbraten-Content/tree/master/Mods/Sauerbraten-BlendModels)
+[CubeBR](http://www.cubebr.com/2018/02/sauerbraten-blend-playermodels-pack.html)
 
-[Sauerworld](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SalatielSauer/Sauerbraten-Content/tree/master/Mods/Sauerbraten-BlendModels)
+[Sauerworld](auerworld.org/forum/index.php?topic=530)
 
 [Quadropolis](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SalatielSauer/Sauerbraten-Content/tree/master/Mods/Sauerbraten-BlendModels)
 
