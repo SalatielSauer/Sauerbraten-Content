@@ -1,6 +1,6 @@
 <h3>Sauerbraten Blend Models</h3>
 .blend Sauerbraten Playermodels With bones, ready to use.
-[u]I'm not suggesting that you use these models outside the sauerbraten without first contacting the owners[/u]
+*I'm not suggesting that you use these models outside the sauerbraten without first contacting the owners*
 
 ![Sauer Playermodels on Blender](https://2.bp.blogspot.com/-YHt3fTWowd0/WonfidNz7aI/AAAAAAAAAoU/fbLQMwjQbXM57SqW_LJGoHi0-F636gVZgCLcBGAs/s1600/sauerblendmodels_banner.png)
 
