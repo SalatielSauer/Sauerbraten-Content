@@ -17,6 +17,17 @@
 
 ![Sauer Playermodels on Blender](https://1.bp.blogspot.com/--wreZGsQgFM/Wont3RRpIxI/AAAAAAAAApc/lsuHmohl1GMJjkgPMI0W9z9YKgScj7J2wCLcBGAs/s640/sauerblendmodels_snouttextures.png)
 
+<h4>Examples?</h4>
+
+![Sauer Fanart by Salatiel](https://i.imgur.com/oMYJC9F.png)
+
+![Sauer Fanart by Salatiel](https://i.imgur.com/dstj0zi.png)
+
+![Sauer Fanart by Salatiel](https://i.imgur.com/GKjZbpT.png)
+
+![Sauer Fanart by Salatiel](https://i.imgur.com/SvpzdK2.png)
+[Check out more fanarts here](https://github.com/SalatielSauer/Sauerbraten-Content/tree/master/Fanarts)
+
 <h4>Download Link?<h4>
 
 [DownGit](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SalatielSauer/Sauerbraten-Content/tree/master/Mods/Sauerbraten-BlendModels)
