@@ -19,6 +19,7 @@ addfriend | Gui | /addfriends to add an online client as a friend
 rgbgui | Gui | /rgbgui to configure vcolor/skyboxcolor visually
 bindmerge | Gui | /bindmerge to add multiple commands to a key, and activate them based on game mode
 customskies | Gui | /customskies to show custom skyboxes made with cloudlayer, cloudbox and fogdome
+favmaps | Gui | /favmaps to show the menu and save shortcuts to your maps
 gifmaker | Command | /giftype (File) (Sleep) (Amount) (Debug 0/1) to configure, and /screengif to start
 ss-filter | Command | /bind "key" [ss-filter] organize screenshots into folders based on map/mode
 localstats | Command | press Tab to show local stats next to the scoreboard
