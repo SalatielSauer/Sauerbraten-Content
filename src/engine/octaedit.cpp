@@ -1,4 +1,4 @@
-//Barbecue, allow edit in view
+//Barbecue, allow edit in view, line 149
 VARP(editinview, 0, 1, 1);
 
 bool noedit(bool view, bool msg)
@@ -13,9 +13,9 @@ bool noedit(bool view, bool msg)
     bool viewable = (isvisiblesphere(r, o) != VFC_NOT_VISIBLE);
 	
 	//Barbecue, allow edit in view
-	//if(!viewable && msg) {conoutf(CON_ERROR, "selection out of view");}
+	//if(!viewable && msg) conoutf(CON_ERROR, "selection not in view");
 	//return !viewable;
-    if(!viewable && editinview && msg) {conoutf(CON_ERROR, "selection out of view");}
+    if(!viewable && editinview && msg) {conoutf(CON_ERROR, "selection not in view");}
 	if (editinview){
     		return !viewable;
 	}
