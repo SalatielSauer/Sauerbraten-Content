@@ -17,7 +17,7 @@ bool noedit(bool view, bool msg)
 	//return !viewable;
     if(!viewable && editinview && msg) {conoutf(CON_ERROR, "selection out of view");}
 	if (editinview){
-    	return !viewable;
+    		return !viewable;
 	}
 	else
 	{
