@@ -1,5 +1,5 @@
 
-| GridPower | MapScale 16 (65.536km) - 4.095 cubes | MapScale 13 (8.192km) - 512 cubes | MapScale 12 (4.096km) - 256 cubes | MapScale 11 (2.048km) - 128 cubes | MapScale 10 (1024km) - 64 cubes |
+| GridPower | MapScale 16 (65.536km) - 4.095 cubes | MapScale 13 (8.192km) - 512 cubes | MapScale 12 (4.096km) - 256 cubes | MapScale 11 (2.048km) - 128 cubes | MapScale 10 (1.024km) - 64 cubes |
 |--|--|--|--|--|--|
 | 12 | 4.096km | 4.096km | 2.048km | 1.024km | 512m 
 | 11 | 2.048km | 2.048km | 2.048km | 1.024km | 512m 
