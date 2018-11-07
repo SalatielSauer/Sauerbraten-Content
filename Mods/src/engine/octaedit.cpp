@@ -24,3 +24,14 @@ bool noedit(bool view, bool msg)
 		return false;	
 	}
 }
+
+//Barbecue, pushface
+//arg1: -1 || 1 (add or subtract arg2)
+//arg2: 0 = X || 1 = Y || 2 = Z
+void pushface(int *dir, int *pface)
+{
+    if(noedit(moving!=0)) return;
+    int s = *dir;
+    sel.o[*pface] += s*sel.grid;
+}
+COMMAND(pushface, "ii"); //
