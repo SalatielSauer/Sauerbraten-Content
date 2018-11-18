@@ -1,7 +1,7 @@
 //mapthumb as background by Salatiel
 //from line 192 to line 199
 if (!mapname || mapshot==notexture){
-    settexture("data/interface/background.png", 0);
+    settexture("data/background.png", 0);
 } else {
     glBindTexture(GL_TEXTURE_2D, mapshot->id);
 };
