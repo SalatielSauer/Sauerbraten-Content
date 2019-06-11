@@ -19,8 +19,6 @@ bool noedit(bool view, bool msg)
     if (editinview){return !viewable;} else {return false;}
 }
 
-//Selection commands expansion, by Salatiel.
-
 //S: Get selection position, based on getcampos
 ICOMMAND(getselpos, "", (),
 {
