@@ -32,6 +32,7 @@ S: Move selection to given position
 */
 void setselpos(int *posx, int *posy, int *posz)
 {
+     if(noedit(moving!=0)) return;
      sel.o.x = *posx - *posx % 16;
      sel.o.y = *posy - *posy % 16;
      sel.o.z = *posz - *posz % 16;
@@ -44,12 +45,8 @@ S: Move selection to given direction (arg1: add/subtract | arg2: x y z)
 void movesel(int *dir, int *pface)
 {
     if(noedit(moving!=0)) return;
+    if((*pface > 2) || (*pface < 0)) return;
 
-    if((*pface > 2) || (*pface < 0))
-    {
-        conoutf(CON_ERROR, "valid range for movesel is 0..2");
-        return;
-    };
     int s = *dir;
     sel.o[*pface] += s*sel.grid;
 }
