@@ -24,3 +24,5 @@ gifmaker | Command | /giftype (File) (Sleep) (Amount) (Debug 0/1) to configure, 
 ss-filter | Command | /bind "key" [ss-filter] organize screenshots into folders based on map/mode
 localstats | Command | press Tab to show local stats next to the scoreboard
 loopexec | Command | /execfile *folder* to execute the entire folder
+guiitemmove | Command | guiitemmove <align> X Y [ ] move a menu item anywhere on the screen 
+demoeditor | Gui | /demoeditor to show the menu and add actions or go forward/backward in a demo
