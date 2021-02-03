@@ -1,3 +1,4 @@
+**Warning:** The files below are very old and ugly, try at your own risk :-)
 
 # Sauerbraten-Scripts
   ##### Some useful scripts (others not so much) that I made for Sauerbraten, but also, with luck, can work in derived games, such as Redeclipse.
